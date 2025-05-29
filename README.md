@@ -102,4 +102,4 @@ The Raspberry Pi announces each command in Turkish:
 "Duruyorum" → Stop
 
 ## 📜 License
-This project is open-source under the MIT License.
+This project is open source under the Apache 2.0 License.
